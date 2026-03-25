@@ -140,7 +140,7 @@ write memory
 
 
 <details>
-<summary><b>1. Router ISP</b></summary>
+<summary><b>3. R2</b></summary>
 
 ```cisco
 enable
@@ -230,7 +230,3 @@ ip 10.24.79.50 255.255.255.0 10.24.79.1
 ip 20.24.11.50 255.255.255.0 20.24.11.1
 ```
 
-
- exit
-end
-write memory
