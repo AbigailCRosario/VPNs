@@ -14,7 +14,7 @@ Los laboratorios fueron emulados y validados utilizando entornos de virtualizaci
 Haz clic en cualquiera de los enlaces para ver la topología, los parámetros criptográficos y la configuración detallada de los equipos:
 
 ### 🔄 Serie 1: Comparativa IKEv1 vs IKEv2
-1. [VPN Site-to-Site Basada en Políticas (IKEv1)](./01-Site-to-Site-Policy-IKEv1)
+1. [VPN Site-to-Site Basada en Políticas (IKEv1)](./01-Site-to-Site-Policy-IKEv1/README.md)
 2. [VPN Site-to-Site Basada en Políticas (IKEv2)](./02-Site-to-Site-Policy-IKEv2)
 3. [Título de tu VPN 3 (IKEv1)](./03-Carpeta-VPN-3)
 4. [Título de tu VPN 4 (IKEv2)](./04-Carpeta-VPN-4)
