@@ -56,10 +56,12 @@ interface GigabitEthernet2/0
  description Hacia R2
  ip address 11.79.2.1 255.255.255.252
  no shutdown
+```
 
 <details>
 <summary><b>2. R1</b></summary>
 
+```cisco
 en
 conf t
 host R1
@@ -136,11 +138,11 @@ write memory
 ```
 
 
+
 <details>
 <summary><b>1. Router ISP</b></summary>
 
 ```cisco
-
 enable
 configure terminal
 hostname R2
@@ -215,16 +217,18 @@ interface GigabitEthernet2/0
  exit
 end
 write memory
+```
 
 <details>
 <summary><b>4. PCs</b></summary>
 
+```cisco
 ! PC en LAN R1
 ip 10.24.79.50 255.255.255.0 10.24.79.1
 
 ! PC en LAN R2
 ip 20.24.11.50 255.255.255.0 20.24.11.1
-
+```
 
 
  exit
