@@ -136,7 +136,9 @@ write memory
 
 
 <details>
-<summary><b>3. R2</b></summary>
+<summary><b>1. Router ISP</b></summary>
+
+```cisco
 
 enable
 configure terminal
